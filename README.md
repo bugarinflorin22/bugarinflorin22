@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bugarinflorin22
-- 👀 I’m interested in electronics && programming languages
-- 🌱 I’m currently learning electronics
+- 👀 Unity3D Developer for Retro Cloud Studios
 - 📫 How to reach me bugarinflorin@gmail.com
 
 <!---
